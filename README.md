@@ -3,7 +3,6 @@
 ![](https://github.com/NoviceMJ/MediTech/blob/main/Screenshots/Screenshot%20(1).jpg)
 
 [MediTech](https://github.com/NoviceMJ/MediTech) is a Simple web project that is made for e-channeling Using PHP,HTML & CSS.
-This initiative facilitates online appointment requests for clients or patients of medical establishments, including clinics and hospitals. This project can also help doctors to manage their appointment with their patients. This doctor's appointment system will organize the schedules of each patient's appointment, which will be submitted as a request to the doctor they have selected. The system comprises three key roles: administrator, doctor, and patient. The system admin will populate the list of the doctors with their specialties and along with the doctor's details and system credentials.
 
 
 ## Features
