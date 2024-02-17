@@ -43,10 +43,10 @@
 | Password: `123` |  Password: `123` |  Password: `123` |
 | ![](https://github.com/NoviceMJ/MediTech/blob/main/Screenshots/Screenshot.png)| ![](https://github.com/NoviceMJ/MediTech/blob/main/Screenshots/Screenshot%20(4).jpg) |    ![](https://github.com/NoviceMJ/MediTech/blob/main/Screenshots/Screenshot%20(2).jpg)  |
 
- # Team Members:
-- Rubul Hoque Choudhury <br/>
+ # Team Members: 
 - Madhurjya Saloi <br/>
 - Arindam Bhattacharjya <br/>
+- Rubul Hoque Choudhury <br/>
 - Nilotpal Kashyap Baruah<br/>
   
 -----------------------------------------------
